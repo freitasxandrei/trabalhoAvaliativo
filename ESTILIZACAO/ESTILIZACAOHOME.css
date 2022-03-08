@@ -1,0 +1,14 @@
+* {
+  text-align: center;
+}
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+header {
+  margin: 5%;
+}
+#carouselExampleIndicators {
+  width: 50%;
+  height: 50%;
+  margin-left: 25%;
+}
